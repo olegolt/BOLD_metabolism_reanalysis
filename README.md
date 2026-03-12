@@ -1,4 +1,4 @@
-# Be aware of noise: Interpreting opposing oxygen metabolism in BOLD signals
+# Opposing BOLD signals and oxygen metabolism largely arise from statistical uncertainty in metabolic estimates
 
 Ole Goltermann, Christian Büchel
 
@@ -12,7 +12,7 @@ Institute of Systems Neuroscience, University Medical Center Hamburg-Eppendorf; 
 
 This repository contains the full analysis code used in:
 
-**Goltermann & Büchel — *Be aware of noise: Interpreting opposing oxygen metabolism in BOLD signals*.**
+**Goltermann & Büchel — *Opposing BOLD signals and oxygen metabolism largely arise from statistical uncertainty in metabolic estimates*.**
 
 The project provides a reanalysis of the openly available dataset used in:
 
