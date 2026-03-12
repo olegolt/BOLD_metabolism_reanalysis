@@ -23,7 +23,7 @@ The original study reported widespread voxel-wise **sign discordance** between B
 In our reanalysis we show that:
 
 - ΔCMRO₂ estimates exhibit **substantial variability across participants**
-- **77.2% of voxels cannot be robustly classified** as concordant or discordant
+- **77.2% of reported voxels in Epp et al. cannot be robustly classified** as concordant or discordant
 - Where classification is possible, **positive BOLD responses are largely concordant with metabolism**
 - Reported concordance and discordance in Epp et al. mainly reflects **statistical uncertainty in CMRO₂ estimates**
 
