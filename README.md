@@ -27,7 +27,6 @@ In our reanalysis we show that:
 - Where classification is possible, **positive BOLD responses are largely concordant with metabolism**
 - Reported concordance and discordance in Epp et al. mainly reflects **statistical uncertainty in CMRO₂ estimates**
 
-Overall, the findings suggest that the previously reported widespread **BOLD–metabolism sign reversal** is largely driven by **variability/noise in model-based metabolic estimates**.
 
 ## Requirements
 
