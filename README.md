@@ -1,18 +1,15 @@
 # Opposing BOLD signals and oxygen metabolism largely arise from statistical uncertainty in metabolic estimates
 
-Ole Goltermann, Christian Büchel
+Ole Goltermann, Alexander Huth, & Christian Büchel
 
-Institute of Systems Neuroscience, University Medical Center Hamburg-Eppendorf; Max Planck School of Cognition
-
-
-![Last update](https://img.shields.io/badge/last_update-March_12,_2026-green)
+![Last update](https://img.shields.io/badge/last_update-March_19,_2026-green)
 
 
 ## Overview
 
 This repository contains the full analysis code used in:
 
-**Goltermann & Büchel — *Opposing BOLD signals and oxygen metabolism largely arise from statistical uncertainty in metabolic estimates*.**
+**Goltermann, Huth, & Büchel — *Opposing BOLD signals and oxygen metabolism largely arise from statistical uncertainty in metabolic estimates*.**
 
 The project provides a reanalysis of the openly available dataset used in:
 
